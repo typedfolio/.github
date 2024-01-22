@@ -1,3 +1,5 @@
+![logo](./assets/logo.svg "Typedfolio logo")
+
 # What is Typedfolio?
 
 A succinct summary of what this project aims to add as a value.
