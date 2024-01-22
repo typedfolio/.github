@@ -1,4 +1,4 @@
-![logo](./assets/logo.svg "Typedfolio logo")
+![logo](assets/logo.svg "Typedfolio logo")
 
 # What is Typedfolio?
 
