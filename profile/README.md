@@ -1,4 +1,4 @@
-![logo](assets/logo.svg "Typedfolio logo")
+![logo](https://raw.githubusercontent.com/typedfolio/.github/main/profile/assets/logo.svg)
 
 # What is Typedfolio?
 
