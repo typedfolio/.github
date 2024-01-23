@@ -4,6 +4,18 @@
 
 Typedfolio is a project that helps structure the content behind a portfolio website so that it can be presented using a compatible visualisation template. Typedfolio is a specification of _extensible data schemas_ and _customisable visualisation templates_. The data schemas are generalised content models for common websites, such as portfolios of researchers, developers, designers and so on. The visualisation templates help display the portfolio content, which is conformant with the data schemas, in desired visual output and interaction formats, such as website front-ends.
 
+## Are there implementations?
+
+Is Typedfolio simply a specification? No!
+
+Reference implementations will be provided as listed below.
+
+> [!WARNING]
+> The following are forward-looking statements as of January 2024.
+
+ - **Schema**: the [Sanity content management system](https://www.sanity.io/). **Template**: the [Next.js framework](https://nextjs.org/).
+ - **Schema**: Python [Pydantic models](https://docs.pydantic.dev/) without any content management system. API implementation in [FastAPI](https://fastapi.tiangolo.com/). **Template**: Python [Jinja](https://jinja.palletsprojects.com/).
+
 ## When not to use Typedfolio?
 
 Typedfolio may not be suitable when:
