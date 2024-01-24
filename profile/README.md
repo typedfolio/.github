@@ -13,7 +13,7 @@ Reference implementations will be provided as listed below.
 > [!WARNING]
 > The following are forward-looking statements as of January 2024.
 
- - **Schema**: the [Sanity content management system](https://www.sanity.io/). **Template**: the [Next.js framework](https://nextjs.org/).
+ - **Schema**: data model (See [https://github.com/typedfolio/schemas-sanity](https://github.com/typedfolio/schemas-sanity)) for the [Sanity content management system](https://www.sanity.io/). **Template**: the [Next.js framework](https://nextjs.org/).
  - **Schema**: Python [Pydantic models](https://docs.pydantic.dev/) without any content management system. API implementation in [FastAPI](https://fastapi.tiangolo.com/). **Template**: Python [Jinja](https://jinja.palletsprojects.com/).
 
 ## When not to use Typedfolio?
